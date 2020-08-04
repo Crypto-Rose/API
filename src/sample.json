@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title":"Venas",
+        "author":"Eduardo Galeano",
+        "year":"1984",
+        "genus":"ficcion"
+    },
+    {
+        "id": 2,
+        "title":"Aquelarre",
+        "author":"Mario Mendoza",
+        "year":"2019",
+        "genus":"aventura"
+    }
+]
